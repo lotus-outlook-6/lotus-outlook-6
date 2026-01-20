@@ -6,7 +6,7 @@ I design and build immersive web experiences and bring physical objects to life 
 
 If an idea pops into my head—whether it's a sci-fi website or a hardware sensor—I'll build it and deploy it.
 
-My main tech stack is **React, TypeScript, C++, and Python**. My favorite tools are **Photoshop, Premiere Pro, After Effects, and Antigravity**.
+My main tech stack is **React, TypeScript, C++, and Python**. My favorite tools are **Photoshop, Premiere Pro, After Effects, Google AI Studio, Firebase and Antigravity**.
 
 I've got a bunch of interesting projects, but my absolute favorite is the [Techfest 2025 FBVA](https://github.com/lotus-outlook-6/Techfest-2025-FBVA).
 
