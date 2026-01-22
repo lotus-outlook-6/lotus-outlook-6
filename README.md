@@ -29,4 +29,4 @@ I don't like procrastination. I prefer to "vibe code" until the job is done.
 *   🎥 **Hobbies**: Video editing, graphics designing, and vibe coding.
 *   🚀 I am a developer who speaks both **Hardware** and **Software**.
 
-##![Stats](https://github-readme-stats.vercel.app/api?username=lotus-outlook-6&show_icons=true&theme=radical)
+## ![Stats](https://github-readme-stats.vercel.app/api?username=lotus-outlook-6&show_icons=true&theme=radical)
